@@ -25,3 +25,19 @@ text-align: center;
     text-align: center;
 }
 
+.button_top{
+    margin-top: 3.2%;
+}
+
+.noms {
+    float:left;
+}
+     
+.container, .titre {
+    overflow:hidden;
+    font-family: Comic Sans MS;
+}
+ 
+.titre {
+    float: right;
+}
